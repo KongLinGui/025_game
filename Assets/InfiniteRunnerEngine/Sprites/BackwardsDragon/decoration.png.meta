@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 9ae17d366ef51744682a2c914d750bb3
+timeCreated: 1447370218
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: decoration_0
+    21300002: decoration_1
+    21300004: decoration_2
+    21300006: decoration_3
+    21300008: decoration_4
+    21300010: decoration_5
+    21300012: decoration_6
+    21300014: decoration_7
+    21300016: decoration_8
+    21300018: decoration_9
+    21300020: decoration_10
+    21300022: decoration_11
+    21300024: decoration_12
+    21300026: decoration_13
+    21300028: decoration_14
+    21300030: decoration_15
+    21300032: decoration_16
+    21300034: decoration_17
+    21300036: decoration_18
+    21300038: decoration_19
+    21300040: decoration_20
+    21300042: decoration_21
+    21300044: decoration_22
+    21300046: decoration_23
+    21300048: decoration_24
+    21300050: decoration_25
+    21300052: decoration_26
+    21300054: decoration_27
+    21300056: decoration_28
+    21300058: decoration_29
+    21300060: decoration_30
+    21300062: decoration_31
+    21300064: decoration_32
+    21300066: decoration_33
+    21300068: decoration_34
+    21300070: decoration_35
+    21300072: decoration_36
+    21300074: decoration_37
+    21300076: decoration_38
+    21300078: decoration_39
+    21300080: decoration_40
+    21300082: decoration_41
+    21300084: decoration_42
+    21300086: decoration_43
+    21300088: decoration_44
+    21300090: decoration_45
+    21300092: decoration_46
+    21300094: decoration_47
+    21300096: decoration_48
+    21300098: decoration_49
+    21300100: decoration_50
+    21300102: decoration_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: decoration_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1368
+        width: 109
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1365
+        width: 119
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1364
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1368
+        width: 131
+        height: 162
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_4
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1364
+        width: 124
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_5
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1351
+        width: 95
+        height: 205
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1308
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1288
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_8
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 1279
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1140
+        width: 112
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1132
+        width: 129
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1142
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_12
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1158
+        width: 112
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1162
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_15
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1136
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_16
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1187
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_17
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1096
+        width: 121
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 917
+        width: 120
+        height: 200
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_19
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 920
+        width: 129
+        height: 196
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1088
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1076
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_23
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1098
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 933
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 917
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 944
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_28
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 926
+        width: 116
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_29
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 970
+        width: 111
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_30
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 964
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_31
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 955
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_32
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 965
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 698
+        width: 125
+        height: 195
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 701
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_35
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 741
+        width: 113
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_36
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 736
+        width: 109
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_37
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 670
+        width: 135
+        height: 227
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_38
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 868
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_39
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 871
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_40
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 826
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_41
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 830
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 765
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_44
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 744
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_46
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 744
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 500
+        width: 155
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 500
+        width: 160
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_49
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 501
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: decoration_50
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 498
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

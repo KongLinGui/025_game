@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: b1c1be092b754dd42916fcdb6da4bbd8
+timeCreated: 1441486718
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: square-boy-orange-boy-run_0
+    21300002: square-boy-orange-boy-run_1
+    21300004: square-boy-orange-boy-run_2
+    21300006: square-boy-orange-boy-run_3
+    21300008: square-boy-orange-boy-run_4
+    21300010: square-boy-orange-boy-run_5
+    21300012: square-boy-orange-boy-run_6
+    21300014: square-boy-orange-boy-run_7
+    21300016: square-boy-orange-boy-run_8
+    21300018: square-boy-orange-boy-run_9
+    21300020: square-boy-orange-boy-run_10
+    21300022: square-boy-orange-boy-run_11
+    21300024: square-boy-orange-boy-run_12
+    21300026: square-boy-orange-boy-run_13
+    21300028: square-boy-orange-boy-run_14
+    21300030: square-boy-orange-boy-run_15
+    21300032: square-boy-orange-boy-run_16
+    21300034: square-boy-orange-boy-run_17
+    21300036: square-boy-orange-boy-run_18
+    21300038: square-boy-orange-boy-run_19
+    21300040: square-boy-orange-boy-run_20
+    21300042: square-boy-orange-boy-run_21
+    21300044: square-boy-orange-boy-run_22
+    21300046: square-boy-orange-boy-run_23
+    21300048: square-boy-orange-boy-run_24
+    21300050: square-boy-orange-boy-run_25
+    21300052: square-boy-orange-boy-run_26
+    21300054: square-boy-orange-boy-run_27
+    21300056: square-boy-orange-boy-run_28
+    21300058: square-boy-orange-boy-run_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: square-boy-orange-boy-run_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_3
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_5
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_6
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_7
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_8
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_9
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_10
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_11
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 727
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_13
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_16
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_17
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_18
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_19
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_20
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_21
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_22
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_23
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 432
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_27
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_28
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: square-boy-orange-boy-run_29
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 137
+        width: 318
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
